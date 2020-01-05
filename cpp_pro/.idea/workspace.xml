@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="cpp_pro" targetName="cpp_pro2" />
+      <config projectName="cpp_pro" targetName="cpp_pro" />
+      <config projectName="cpp_pro" targetName="cpp_pro4" />
+      <config projectName="cpp_pro" targetName="cpp_pro3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3093842d-7b56-4d2c-b9d1-adf2d04234df" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="false" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1T1kkQ0t8czMJmZtghu0hZnaXd2" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.cpp_pro3">
+    <configuration name="cpp_pro" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_pro" TARGET_NAME="cpp_pro" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_pro" RUN_TARGET_NAME="cpp_pro">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cpp_pro2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_pro" TARGET_NAME="cpp_pro2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_pro" RUN_TARGET_NAME="cpp_pro2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cpp_pro3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_pro" TARGET_NAME="cpp_pro3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_pro" RUN_TARGET_NAME="cpp_pro3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cpp_pro4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_pro" TARGET_NAME="cpp_pro4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_pro" RUN_TARGET_NAME="cpp_pro4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.cpp_pro" />
+      <item itemvalue="CMake Application.cpp_pro2" />
+      <item itemvalue="CMake Application.cpp_pro3" />
+      <item itemvalue="CMake Application.cpp_pro4" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3093842d-7b56-4d2c-b9d1-adf2d04234df" name="Default Changelist" comment="" />
+      <created>1572635131731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572635131731</updated>
+      <workItem from="1572635133072" duration="3483000" />
+      <workItem from="1572680832603" duration="2211000" />
+      <workItem from="1572802306665" duration="4364000" />
+      <workItem from="1573433019559" duration="933000" />
+      <workItem from="1573458403923" duration="13790000" />
+      <workItem from="1575715291081" duration="6707000" />
+      <workItem from="1575814746259" duration="641000" />
+      <workItem from="1575850701711" duration="7250000" />
+      <workItem from="1575889029160" duration="1677000" />
+      <workItem from="1575892469592" duration="1339000" />
+      <workItem from="1578219086946" duration="1437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

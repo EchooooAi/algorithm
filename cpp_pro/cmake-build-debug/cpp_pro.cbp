@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cpp_pro"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/A-code/algorithm/cpp_pro/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_pro4">
+				<Option output="D:/A-code/algorithm/cpp_pro/cmake-build-debug/cpp_pro4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/A-code/algorithm/cpp_pro/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_pro4"/>
+					<CompileFile command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_pro4/fast">
+				<Option output="D:/A-code/algorithm/cpp_pro/cmake-build-debug/cpp_pro4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/A-code/algorithm/cpp_pro/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_pro4/fast"/>
+					<CompileFile command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_pro">
+				<Option output="D:/A-code/algorithm/cpp_pro/cmake-build-debug/cpp_pro.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/A-code/algorithm/cpp_pro/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_pro"/>
+					<CompileFile command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_pro/fast">
+				<Option output="D:/A-code/algorithm/cpp_pro/cmake-build-debug/cpp_pro.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/A-code/algorithm/cpp_pro/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_pro/fast"/>
+					<CompileFile command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_pro2">
+				<Option output="D:/A-code/algorithm/cpp_pro/cmake-build-debug/cpp_pro2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/A-code/algorithm/cpp_pro/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_pro2"/>
+					<CompileFile command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_pro2/fast">
+				<Option output="D:/A-code/algorithm/cpp_pro/cmake-build-debug/cpp_pro2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/A-code/algorithm/cpp_pro/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_pro2/fast"/>
+					<CompileFile command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_pro3">
+				<Option output="D:/A-code/algorithm/cpp_pro/cmake-build-debug/cpp_pro3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/A-code/algorithm/cpp_pro/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_pro3"/>
+					<CompileFile command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_pro3/fast">
+				<Option output="D:/A-code/algorithm/cpp_pro/cmake-build-debug/cpp_pro3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/A-code/algorithm/cpp_pro/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/A-code/algorithm/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_pro3/fast"/>
+					<CompileFile command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/A-code/algorithm/cpp_pro/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/A-code/algorithm/cpp_pro/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/A-code/algorithm/mingw64/bin/mingw32-make.exe -f &quot;D:/A-code/algorithm/cpp_pro/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/A-code/algorithm/cpp_pro/main.cpp">
+			<Option target="cpp_pro"/>
+		</Unit>
+		<Unit filename="D:/A-code/algorithm/cpp_pro/main_2.cpp">
+			<Option target="cpp_pro2"/>
+		</Unit>
+		<Unit filename="D:/A-code/algorithm/cpp_pro/main_bb.cpp">
+			<Option target="cpp_pro3"/>
+		</Unit>
+		<Unit filename="D:/A-code/algorithm/cpp_pro/main_bbex.cpp">
+			<Option target="cpp_pro4"/>
+		</Unit>
+		<Unit filename="D:/A-code/algorithm/cpp_pro/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
